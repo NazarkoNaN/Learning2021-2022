@@ -1,0 +1,16 @@
+C:\Users\Назар\Desktop\флешка\Навчання 3.1\АД\Lab1.1\Lab1.1\bin\Release\Lab1.1.exe.config
+C:\Users\Назар\Desktop\флешка\Навчання 3.1\АД\Lab1.1\Lab1.1\bin\Release\Lab1.1.exe
+C:\Users\Назар\Desktop\флешка\Навчання 3.1\АД\Lab1.1\Lab1.1\bin\Release\Lab1.1.pdb
+C:\Users\Назар\Desktop\флешка\Навчання 3.1\АД\Lab1.1\Lab1.1\bin\Release\EPPlus.dll
+C:\Users\Назар\Desktop\флешка\Навчання 3.1\АД\Lab1.1\Lab1.1\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Назар\Desktop\флешка\Навчання 3.1\АД\Lab1.1\Lab1.1\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\Назар\Desktop\флешка\Навчання 3.1\АД\Lab1.1\Lab1.1\bin\Release\EPPlus.xml
+C:\Users\Назар\Desktop\флешка\Навчання 3.1\АД\Lab1.1\Lab1.1\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Назар\Desktop\флешка\Навчання 3.1\АД\Lab1.1\Lab1.1\obj\Release\Lab1.1.csproj.AssemblyReference.cache
+C:\Users\Назар\Desktop\флешка\Навчання 3.1\АД\Lab1.1\Lab1.1\obj\Release\Lab1._1.Form1.resources
+C:\Users\Назар\Desktop\флешка\Навчання 3.1\АД\Lab1.1\Lab1.1\obj\Release\Lab1._1.Properties.Resources.resources
+C:\Users\Назар\Desktop\флешка\Навчання 3.1\АД\Lab1.1\Lab1.1\obj\Release\Lab1.1.csproj.GenerateResource.cache
+C:\Users\Назар\Desktop\флешка\Навчання 3.1\АД\Lab1.1\Lab1.1\obj\Release\Lab1.1.csproj.CoreCompileInputs.cache
+C:\Users\Назар\Desktop\флешка\Навчання 3.1\АД\Lab1.1\Lab1.1\obj\Release\Lab1.1.csproj.CopyComplete
+C:\Users\Назар\Desktop\флешка\Навчання 3.1\АД\Lab1.1\Lab1.1\obj\Release\Lab1.1.exe
+C:\Users\Назар\Desktop\флешка\Навчання 3.1\АД\Lab1.1\Lab1.1\obj\Release\Lab1.1.pdb
