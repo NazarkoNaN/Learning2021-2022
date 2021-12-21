@@ -27,11 +27,11 @@ CREATE TABLE CERTIFICATION(
 );
 
 CREATE TABLE DOCUMENTS(
-  HumanFK NUMBER REFERENCES PERSON (PersonPK) ON DELETE CASCADE NOT NULL,
-  Pasporid VARCHAR2(9 char) CHECK(Pasporid LIKE '[0-9]{9}') NOT NULL,
+  HumanFK NUMBER REFERENCES Human (HumanPK) ON DELETE CASCADE NOT NULL,
+  Pasporid VARCHAR2(9 char) CHECK(REGEXP_LIKE(Pasporid , '[0-9]{9}')) NOT NULL,
   Hiredate DATE,
-  Identification_code VARCHAR2(10 CHAR) CHECK(Identification_code LIKE '[0-9]{9}') NOT NULL,
-  Work_book VARCHAR2(6 CHAR) CHECK(Work_book LIKE '[0-9]{6}')
+  Identification_code VARCHAR2(10 CHAR) CHECK(REGEXP_LIKE(Identification_code,'[0-9]{9}')) NOT NULL,
+  Work_book VARCHAR2(6 CHAR) CHECK(REGEXP_LIKE(Work_book, '[0-9]{6}'))
 );
 
 CREATE TABLE UNIT(
