@@ -688,3 +688,72 @@ INSERT INTO DOCUMENTS
 VALUES(134, '000217282', TO_DATE('24.10.2017','DD.MM.YYYY'), '000250937', '008662');
 
 select count(*) from documents;
+--Update
+UPDATE  Unit u
+SET u.LEADER = 1
+Where u.UNITPK =1;
+
+UPDATE  Unit u
+SET u.LEADER = 4
+Where u.UNITPK = 2;
+
+UPDATE  Unit u
+SET u.LEADER = 8
+Where u.UNITPK =3;
+
+UPDATE  Unit u
+SET u.LEADER = 14
+Where u.UNITPK =4;
+
+UPDATE  Unit u
+SET u.LEADER = 21
+Where u.UNITPK = 5;
+
+UPDATE  Unit u
+SET u.LEADER = 27
+Where u.UNITPK = 6;
+
+UPDATE  Unit u
+SET u.LEADER = 31
+Where u.UNITPK = 7;
+
+UPDATE  Unit u
+SET u.LEADER = 55
+Where u.UNITPK = 8;
+
+UPDATE  Unit u
+SET u.LEADER = 80
+Where u.UNITPK = 9;
+
+UPDATE  Unit u
+SET u.LEADER = 86
+Where u.UNITPK = 10;
+
+UPDATE  Unit u
+SET u.LEADER = 119
+Where u.UNITPK = 11;
+
+UPDATE  Unit u
+SET u.LEADER = 122
+Where u.UNITPK = 12;
+
+
+UPDATE  DEPARTMENT_HUMAN dep
+SET dep.LEADER = 1,dep.FUND = 500000
+Where dep.DEPPK = 1;
+
+UPDATE  DEPARTMENT_HUMAN dep
+SET dep.LEADER = 14,dep.FUND = 350000
+Where dep.DEPPK = 2;
+
+UPDATE  DEPARTMENT_HUMAN dep
+SET dep.LEADER = 31,dep.FUND = 4000000
+Where dep.DEPPK = 3;
+
+UPDATE  DEPARTMENT_HUMAN dep
+SET dep.LEADER = 119,dep.FUND = 800000
+Where dep.DEPPK = 4;
+
+
+Update UNIT U
+SET U.PREMIUM = 2000;
