@@ -43,51 +43,51 @@ VALUES(12,'Транспортування',4,null,null);
 
 --Profesion
 Insert into PROFESSION
-VALUES(1,'Голова підприємства',null);
+VALUES(1,'Голова підприємства',160000);
 Insert into PROFESSION
-VALUES(2,'Секретар',null);
+VALUES(2,'Секретар',15000);
 Insert into PROFESSION
-VALUES(3,'Головний бугалтер',null);
+VALUES(3,'Головний бугалтер',35000);
 Insert into PROFESSION
-VALUES(4,'Бугалтер',null);
+VALUES(4,'Бугалтер',25000);
 Insert into PROFESSION
-VALUES(5,'Молодший спеціаліст',null);
+VALUES(5,'Молодший спеціаліст',8000);
 Insert into PROFESSION
-VALUES(6,'Головний інженер',null);
+VALUES(6,'Головний інженер',40000);
 Insert into PROFESSION
-VALUES(7,'Старший проектувальник',null);
+VALUES(7,'Старший проектувальник',28000);
 Insert into PROFESSION
-VALUES(8,'Розробник',null);
+VALUES(8,'Розробник',16000);
 Insert into PROFESSION
-VALUES(9,'Інженер',null);
+VALUES(9,'Інженер',18000);
 Insert into PROFESSION
-VALUES(10,'Голова QA',null);
+VALUES(10,'Голова QA',26000);
 Insert into PROFESSION
-VALUES(11,'QA',null);
+VALUES(11,'QA',15000);
 Insert into PROFESSION
-VALUES(12,'Тестувальник',null);
+VALUES(12,'Тестувальник',12000);
 Insert into PROFESSION
-VALUES(13,'Старший по впровадженню',null);
+VALUES(13,'Старший по впровадженню',30000);
 Insert into PROFESSION
-VALUES(14,'Старший відділу',null);
+VALUES(14,'Старший відділу',22000);
 Insert into PROFESSION
-VALUES(15,'Робочий',null);
+VALUES(15,'Робочий',14000);
 Insert into PROFESSION
-VALUES(16,'Молодший тестувальник',null);
+VALUES(16,'Молодший тестувальник',9000);
 Insert into PROFESSION
-VALUES(17,'Старший розробник',null);
+VALUES(17,'Старший розробник',22000);
 Insert into PROFESSION
-VALUES(18,'Старший інженер',null);
+VALUES(18,'Старший інженер',24000);
 Insert into PROFESSION
-VALUES(19,'Старший тестувальник',null);
+VALUES(19,'Старший тестувальник',18000);
 Insert into PROFESSION
-VALUES(20,'Водіій',null);
+VALUES(20,'Водіій',11000);
 Insert into PROFESSION
-VALUES(21,'Голова постачань',null);
+VALUES(21,'Голова постачань',22000);
 Insert into PROFESSION
-VALUES(22,'Грузчик',null);
+VALUES(22,'Грузчик',8000);
 Insert into PROFESSION
-VALUES(23,'Менеджер',null);
+VALUES(23,'Менеджер',14000);
 
 --Sertification_type
 Insert into CERTIFICATION_TYPE
@@ -747,7 +747,7 @@ SET dep.LEADER = 14,dep.FUND = 350000
 Where dep.DEPPK = 2;
 
 UPDATE  DEPARTMENT_HUMAN dep
-SET dep.LEADER = 31,dep.FUND = 4000000
+SET dep.LEADER = 31,dep.FUND = 8000000
 Where dep.DEPPK = 3;
 
 UPDATE  DEPARTMENT_HUMAN dep
