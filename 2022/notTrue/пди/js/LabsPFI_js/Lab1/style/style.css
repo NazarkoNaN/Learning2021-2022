@@ -1,0 +1,42 @@
+*{
+  font-family: MV BOLI;
+  color:#FFF5E3;
+  font-style: italic;
+  text-shadow: 0px 3px 3px #0F0D11, 0 0 25px #7881B1;
+}
+
+body{
+  background-color: #453269;
+  background-image: linear-gradient(43deg, #16225c 0%, #644d74 46%, #745721 100%);
+}
+
+body.info{
+  background-color: #520d0d;
+  background-image: linear-gradient(43deg, #424970 0%, #3d213b 46%, #6b614f 100%);
+}
+
+a.menu_but{
+  font-size: 22px;
+  text-decoration: none;
+  text-align: left;
+  float: left;
+  position: relative;
+  display: block;
+  margin: 15px 1vw 10px 1vw;
+  padding: 5px 1vw 5px 1vw;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  color: #bbb6ad;
+  transition-property: background-color;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in;
+}
+
+a.menu_but:hover{
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+h1{
+  font-family: "Times New Roman", Georgia, Serif;
+  color: #d4b783;
+}

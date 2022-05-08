@@ -1,0 +1,25 @@
+H1
+{
+    font-size: large;
+}
+
+B
+{
+    color: beige;
+}
+
+U
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+SPAN
+{
+    display: block;
+    color: brown;
+}
+
+A
+{
+    font-weight: bold;
+}

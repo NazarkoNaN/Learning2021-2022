@@ -1,0 +1,100 @@
+*{
+  font-family: MV BOLI;
+  color:#FFF5E3;
+  font-style: italic;
+  text-shadow: 0px 3px 3px #0F0D11, 0 0 25px #7881B1;
+}
+
+body{
+  background-color: #7c0c28;
+  background-image: linear-gradient(43deg, #23882c 0%, #1f7a57 80%);
+}
+
+body.info{
+  background-color: #0e135a;
+  background-image: linear-gradient(43deg, #b3b8cf 0%, #cfab07 46%, #28a15a 100%);
+}
+
+a.menu_but{
+  font-size: 22px;
+  text-decoration: none;
+  text-align: left;
+  float: left;
+  position: relative;
+  display: block;
+  margin: 15px 1vw 10px 1vw;
+  padding: 5px 1vw 5px 1vw;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  color: #8b5f13;
+  transition-property: background-color;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in;
+}
+
+p{
+  font-family: "Times New Roman", Georgia, Serif;
+  font-size: 18px;
+}
+
+a.menu_but:hover{
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+h1, h2{
+  font-family: "Times New Roman", Georgia, Serif;
+  color: #6e4f1a;
+}
+
+h1.tab{
+  font-size: 20px;
+  font-style: italic;
+}
+
+table{
+  font-size: 16px;
+  background-color: #70D095;
+  border: 2px solid #5c0f0f;
+}
+
+th, td{
+  text-shadow: none;
+  font-style: normal;
+  background-color: #1b35a0;
+  padding: 15px;
+  margin: 3px;
+}
+
+.calendar{
+  font-style: normal;
+  color: #2F3746;
+  background-color: #A9C9FF;
+  background-image: linear-gradient(180deg, #A9C9FF 0%, #ec98b4 100%);
+  border: 1px solid #6A6F79;
+}
+
+table.calendar{
+  border: 2px solid #6A6F79;
+  padding: 15px;
+  margin: 3px;
+}
+
+td.notNow{
+  background-color: #89a1ce;
+  background-image: linear-gradient(180deg, #89a1ce 0%, #86ce5d 100%);
+}
+
+#today{
+  font-weight: bold;
+  color: #e40b0b;
+  border: 2px solid #d40e0e;
+}
+
+#holiday{
+  color: #A70128;
+}
+
+.days{
+  background-color: #7dadff;
+  background-image: linear-gradient(180deg, #7dadff 0%, #50a3c4 100%);
+}

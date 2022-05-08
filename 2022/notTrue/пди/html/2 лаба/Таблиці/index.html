@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Table</title>
+</head>
+<!--Завдання:
+
+1.Використовуючи таблиці оформити HTML сторінку
+
+2.Таблиця повинна містити об'єднані рядки і стовпці
+
+3.Повинен бути заданий фон, а також вставлено фото або зображення
+
+У рядках необхідно використовувати елементи HTML для форматування тексту усередині осередку
+-->
+
+<body>
+    <table class='main_table' border="3px" bordercolor='palevioletred'>
+        <!--Table Row-->
+        <tr>
+
+            <th class='head'>Заголовок первого столбца</th>
+            <!--Table Head-->
+            <th class='head'>Заголовок второго столбца</th>
+            <th class='head'>Заголовок третьего столбца</th>
+        </tr>
+        <tr align="center">
+            <td>Ячейка 1</td>
+            <!--Table Data-->
+            <td>Ячейка 2</td>
+            <td>Ячейка 3</td>
+
+        </tr>
+        <tr align="center">
+            <td>Ячейка 11</td>
+            <!--Table Data-->
+            <td>Ячейка 22</td>
+            <td>Ячейка 33</td>
+
+        </tr>
+        <tr align="center">
+            <td>Ячейка 111</td>
+            <!--Table Data-->
+            <td>Ячейка 222</td>
+            <td>Ячейка 333</td>
+
+        </tr>
+
+    </table>
+    <table class="table_2" border="1" cellpadding="4" cellspacing="0" bgcolor='palevioletred'>
+        <tr>
+            <td rowspan="2">Браузер</td>
+            <th colspan="2">Internet Explorer</th>
+            <th colspan="3">Opera</th>
+            <th colspan="2">Firefox</th>
+        </tr>
+        <tr>
+            <th>6.0</th>
+            <th>7.0</th>
+            <th>7.0</th>
+            <th>8.0</th>
+            <th>9.0</th>
+            <th>1.0</th>
+            <th>2.0</th>
+        </tr>
+        <tr align="center">
+            <td>Поддерживается</td>
+            <td>Нет</td>
+            <td>Да</td>
+            <td>Нет</td>
+            <td>Да</td>
+            <td>Да</td>
+            <td>Да</td>
+            <td>Да</td>
+        </tr>
+    </table>
+    <table class='table_3' border="3px" bordercolor='palevioletred'>
+        <!--Table Row-->
+        <tr>
+
+            <th>Таблица для изображения</th>
+            <!--Table Head-->
+            <th>И ещё что-то напишу</th>
+
+        </tr>
+        <tr align="center">
+            <td><img src='img/20121204144327.jpg'></td>
+            <!--Table Data-->
+            <td><img src="img/pic_a8bf01cef0eaf46338e791bf08db72c1.jpg"></td>
+
+        </tr>
+    </table>
+</body>
+
+</html>

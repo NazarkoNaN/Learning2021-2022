@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE Lab1 SYSTEM "Lab1.dtd">
+<?xml-stylesheet type="text/css" href="style.css"?>
+<Html>
+  <Head>
+      <Meta></Meta>
+      <Meta></Meta>
+      <Title>Lab1.1</Title>
+  </Head>
+  <Body>
+    <H1>Header1</H1>
+    <H2>Header2</H2>
+    <B>Text</B>
+    <BR />
+    <U>Text</U>
+    <BR />
+    <Strike>Striked text</Strike>
+    <BR />
+    <I>Text</I>
+    <BR />
+    <Span style="color: red">Red text</Span>
+    <BR />
+    <Span style="font-size: 48pt">Big Text size 48</Span>
+    <BR />
+    <Span style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif">Text</Span>
+    <BR />
+    <Span style="font-family:Verdana, Geneva, Tahoma, sans-serif">Verdana font text</Span>
+    <BR />
+    <Img src="https://bfoto.ru/images/foto-visokogo-razresheniya-more-gory-1.jpg" height="640" width="480" />
+    <Span style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif">Example of right aligned text</Span>
+    <BR />
+    <A href="mailto:mail@gmail.com">Link for mail sending</A>
+    <BR />
+    <A href="https://ru.coursera.org/courses?query=html&page=1">Link to Google.com</A>
+  </Body>
+</Html>
