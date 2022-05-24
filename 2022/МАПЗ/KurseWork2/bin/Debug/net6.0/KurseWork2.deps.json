@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KurseWork2/1.0.0": {
+        "runtime": {
+          "KurseWork2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KurseWork2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

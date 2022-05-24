@@ -1,0 +1,14 @@
+C:\github\Learning2021-2022\2022\АППЗ\lab1.2\lab1.2\bin\Debug\netcoreapp3.1\lab1.2.exe
+C:\github\Learning2021-2022\2022\АППЗ\lab1.2\lab1.2\bin\Debug\netcoreapp3.1\lab1.2.deps.json
+C:\github\Learning2021-2022\2022\АППЗ\lab1.2\lab1.2\bin\Debug\netcoreapp3.1\lab1.2.runtimeconfig.json
+C:\github\Learning2021-2022\2022\АППЗ\lab1.2\lab1.2\bin\Debug\netcoreapp3.1\lab1.2.runtimeconfig.dev.json
+C:\github\Learning2021-2022\2022\АППЗ\lab1.2\lab1.2\bin\Debug\netcoreapp3.1\lab1.2.dll
+C:\github\Learning2021-2022\2022\АППЗ\lab1.2\lab1.2\bin\Debug\netcoreapp3.1\lab1.2.pdb
+C:\github\Learning2021-2022\2022\АППЗ\lab1.2\lab1.2\obj\Debug\netcoreapp3.1\lab1.2.csproj.AssemblyReference.cache
+C:\github\Learning2021-2022\2022\АППЗ\lab1.2\lab1.2\obj\Debug\netcoreapp3.1\lab1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Learning2021-2022\2022\АППЗ\lab1.2\lab1.2\obj\Debug\netcoreapp3.1\lab1.2.AssemblyInfoInputs.cache
+C:\github\Learning2021-2022\2022\АППЗ\lab1.2\lab1.2\obj\Debug\netcoreapp3.1\lab1.2.AssemblyInfo.cs
+C:\github\Learning2021-2022\2022\АППЗ\lab1.2\lab1.2\obj\Debug\netcoreapp3.1\lab1.2.csproj.CoreCompileInputs.cache
+C:\github\Learning2021-2022\2022\АППЗ\lab1.2\lab1.2\obj\Debug\netcoreapp3.1\lab1.2.dll
+C:\github\Learning2021-2022\2022\АППЗ\lab1.2\lab1.2\obj\Debug\netcoreapp3.1\lab1.2.pdb
+C:\github\Learning2021-2022\2022\АППЗ\lab1.2\lab1.2\obj\Debug\netcoreapp3.1\lab1.2.genruntimeconfig.cache

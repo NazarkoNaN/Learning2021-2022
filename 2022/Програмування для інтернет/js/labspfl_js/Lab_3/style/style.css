@@ -1,0 +1,63 @@
+p{
+  font-family: "Times New Roman", Georgia, Serif;
+  font-size: 18px;
+}
+
+a.menu_but:hover{
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+h1, h2{
+  font-family: "Times New Roman", Georgia, Serif;
+  color: #6e4f1a;
+}
+
+h1.tab{
+  font-size: 20px;
+  font-style: italic;
+}
+
+table{
+  font-size: 16px;
+  background-color: #5f4d39;
+  border: 2px solid #672bc9;
+}
+
+th, td{
+  text-shadow: none;
+  font-style: normal;
+  background-color: #a01b1b;
+  padding: 15px;
+  margin: 3px;
+}
+
+.calendar{
+  font-style: normal;
+  color: #2F3746;
+  background-color: #A9C9FF;
+  border: 1px solid #6A6F79;
+}
+
+table.calendar{
+  border: 2px solid #6A6F79;
+  padding: 15px;
+  margin: 3px;
+}
+
+td.notNow{
+  background-color: #89a1ce;
+}
+
+#today{
+  font-weight: bold;
+  color: #e40b0b;
+  border: 2px solid #d40e0e;
+}
+
+#holiday{
+  color: #15a528;
+}
+
+.days{
+  background-color: #7dadff;
+}

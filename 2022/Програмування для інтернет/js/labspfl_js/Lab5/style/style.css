@@ -1,0 +1,73 @@
+*{
+  font-family: MV BOLI;
+  color:#FFF5E3;
+  font-style: italic;
+  text-shadow: 0px 3px 3px #0F0D11, 0 0 25px #848bb1;
+}
+
+
+
+div{
+  text-align: center;
+}
+
+img{
+  width: 90%;
+}
+
+#move{
+  position: absolute;
+  border: 1px dashed black;
+  padding: 10px;
+}
+
+body.info{
+  background-color: #5a2883;
+
+}
+
+a.menu_but{
+  font-size: 22px;
+  text-decoration: none;
+  text-align: left;
+  float: left;
+  position: relative;
+  display: block;
+  margin: 15px 1vw 10px 1vw;
+  padding: 5px 1vw 5px 1vw;
+  border-radius: 10px;
+  color: #e0930e;
+  transition-property: background-color;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in;
+}
+
+a.menu_but:hover{
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+h1{
+  font-family: "Times New Roman", Georgia, Serif;
+  color: #1c0a6d;
+}
+
+#canvas{
+  text-align: left;
+}
+
+#triangle{
+  width: 100px;
+}
+
+#square{
+  width: 60px;
+}
+
+#circle {
+  width: 40px;
+}
+
+.move{
+  position: absolute;
+  top: 40%;
+}

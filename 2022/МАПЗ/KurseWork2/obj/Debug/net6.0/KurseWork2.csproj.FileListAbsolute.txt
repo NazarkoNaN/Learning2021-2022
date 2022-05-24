@@ -1,0 +1,15 @@
+C:\github\Learning2021-2022\2022\МАПЗ\KurseWork2\bin\Debug\net6.0\KurseWork2.exe
+C:\github\Learning2021-2022\2022\МАПЗ\KurseWork2\bin\Debug\net6.0\KurseWork2.deps.json
+C:\github\Learning2021-2022\2022\МАПЗ\KurseWork2\bin\Debug\net6.0\KurseWork2.runtimeconfig.json
+C:\github\Learning2021-2022\2022\МАПЗ\KurseWork2\bin\Debug\net6.0\KurseWork2.dll
+C:\github\Learning2021-2022\2022\МАПЗ\KurseWork2\bin\Debug\net6.0\KurseWork2.pdb
+C:\github\Learning2021-2022\2022\МАПЗ\KurseWork2\obj\Debug\net6.0\KurseWork2.csproj.AssemblyReference.cache
+C:\github\Learning2021-2022\2022\МАПЗ\KurseWork2\obj\Debug\net6.0\KurseWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\Learning2021-2022\2022\МАПЗ\KurseWork2\obj\Debug\net6.0\KurseWork2.AssemblyInfoInputs.cache
+C:\github\Learning2021-2022\2022\МАПЗ\KurseWork2\obj\Debug\net6.0\KurseWork2.AssemblyInfo.cs
+C:\github\Learning2021-2022\2022\МАПЗ\KurseWork2\obj\Debug\net6.0\KurseWork2.csproj.CoreCompileInputs.cache
+C:\github\Learning2021-2022\2022\МАПЗ\KurseWork2\obj\Debug\net6.0\KurseWork2.dll
+C:\github\Learning2021-2022\2022\МАПЗ\KurseWork2\obj\Debug\net6.0\refint\KurseWork2.dll
+C:\github\Learning2021-2022\2022\МАПЗ\KurseWork2\obj\Debug\net6.0\KurseWork2.pdb
+C:\github\Learning2021-2022\2022\МАПЗ\KurseWork2\obj\Debug\net6.0\KurseWork2.genruntimeconfig.cache
+C:\github\Learning2021-2022\2022\МАПЗ\KurseWork2\obj\Debug\net6.0\ref\KurseWork2.dll
