@@ -1,0 +1,10 @@
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Calculator_BPD_Lab1_2\Calculator_BPD_Lab1_2\bin\Release\Calculator_BPD_Lab1_2.exe.config
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Calculator_BPD_Lab1_2\Calculator_BPD_Lab1_2\bin\Release\Calculator_BPD_Lab1_2.exe
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Calculator_BPD_Lab1_2\Calculator_BPD_Lab1_2\bin\Release\Calculator_BPD_Lab1_2.pdb
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Calculator_BPD_Lab1_2\Calculator_BPD_Lab1_2\obj\Release\Calculator_BPD_Lab1_2.csproj.AssemblyReference.cache
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Calculator_BPD_Lab1_2\Calculator_BPD_Lab1_2\obj\Release\Calculator_BPD_Lab1_2.Form1.resources
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Calculator_BPD_Lab1_2\Calculator_BPD_Lab1_2\obj\Release\Calculator_BPD_Lab1_2.Properties.Resources.resources
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Calculator_BPD_Lab1_2\Calculator_BPD_Lab1_2\obj\Release\Calculator_BPD_Lab1_2.csproj.GenerateResource.cache
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Calculator_BPD_Lab1_2\Calculator_BPD_Lab1_2\obj\Release\Calculator_BPD_Lab1_2.csproj.CoreCompileInputs.cache
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Calculator_BPD_Lab1_2\Calculator_BPD_Lab1_2\obj\Release\Calculator_BPD_Lab1_2.exe
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Calculator_BPD_Lab1_2\Calculator_BPD_Lab1_2\obj\Release\Calculator_BPD_Lab1_2.pdb
