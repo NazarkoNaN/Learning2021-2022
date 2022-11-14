@@ -8,3 +8,14 @@ C:\Users\Spare\source\repos\Lab1_3\Lab1_3\obj\Debug\Lab1_3.csproj.GenerateResour
 C:\Users\Spare\source\repos\Lab1_3\Lab1_3\obj\Debug\Lab1_3.csproj.CoreCompileInputs.cache
 C:\Users\Spare\source\repos\Lab1_3\Lab1_3\obj\Debug\Lab1_3.exe
 C:\Users\Spare\source\repos\Lab1_3\Lab1_3\obj\Debug\Lab1_3.pdb
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Lab1_3\Lab1_3\bin\Debug\Lab1_3.exe.config
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Lab1_3\Lab1_3\bin\Debug\Lab1_3.exe
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Lab1_3\Lab1_3\bin\Debug\Lab1_3.pdb
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Lab1_3\Lab1_3\obj\Debug\Lab1_3.csproj.AssemblyReference.cache
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Lab1_3\Lab1_3\obj\Debug\Lab1_3.Form1.resources
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Lab1_3\Lab1_3\obj\Debug\Lab1_3.Properties.Resources.resources
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Lab1_3\Lab1_3\obj\Debug\Lab1_3.csproj.GenerateResource.cache
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Lab1_3\Lab1_3\obj\Debug\Lab1_3.csproj.CoreCompileInputs.cache
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Lab1_3\Lab1_3\obj\Debug\Lab1_3.exe
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Lab1_3\Lab1_3\obj\Debug\Lab1_3.pdb
+C:\GitHub\Learning2021-2022\2022\Simestr 7\БПД\Lab1_3\Lab1_3\obj\Debug\Lab1_3.csproj.ResolveComReference.cache
